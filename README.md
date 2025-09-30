@@ -1,1 +1,1 @@
-# first_project
+# first_project с кратким описанием того что здаесь будет
