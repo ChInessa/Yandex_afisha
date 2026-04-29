@@ -173,18 +173,19 @@
 
 ---
 
-# 📂 Структура репозитория
+## 📂 Структура репозитория
 
 ```text
 Yandex_afisha/
 ├── README.md
 ├── notebooks/
 │   └── Yandex_afisha_Chaunina_2.ipynb
+```
 
 ---
 
 ## 👤 Автор
 
-Инесса Чаунина
-Data Analyst | Product Analyst
+**Инесса Чаунина**  
+Data Analyst | Product Analyst  
 Открыта к предложениям
