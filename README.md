@@ -179,8 +179,13 @@
 Yandex_afisha/
 ├── README.md
 ├── notebooks/
-│   └── Yandex_afisha_Chaunina_2.ipynb
+│   └── user_behavior_analysis.ipynb
 ```
+---
+
+## 📎 Быстрый доступ
+
+[Открыть ноутбук с анализом](./notebooks/user_behavior_analysis.ipynb)
 
 ---
 
