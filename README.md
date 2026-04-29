@@ -1,5 +1,14 @@
 # Product Analytics: Анализ сервиса Яндекс.Афиша
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black)
+![NumPy](https://img.shields.io/badge/NumPy-Computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-EDA-teal)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
+> Учебный проект по продуктовой аналитике: анализ retention, CAC, LTV, ROI и эффективности каналов привлечения пользователей сервиса Яндекс.Афиша.
+
 ## О проекте
 
 Исследовательский и продуктовый анализ пользовательских данных сервиса Яндекс.Афиша.
