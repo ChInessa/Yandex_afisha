@@ -118,7 +118,7 @@
 <img width="1680" height="664" alt="image" src="https://github.com/user-attachments/assets/4dcac1b8-573d-4fab-8fb0-0c20aac9ad14" />
 
 ### Return rate by event type
-<img width="1658" height="686" alt="image" src="https://github.com/user-attachments/assets/ad2f7561-4792-40f0-9ec5-25cf7df139ff" />
+<img width="1694" height="792" alt="image" src="https://github.com/user-attachments/assets/04dd81fe-7112-4534-bc1b-f7c7a5f47278" />
 
 ### Device comparison
 <img width="1740" height="766" alt="image" src="https://github.com/user-attachments/assets/15232227-ef34-450b-a6be-aafbb9eb4ad2" />
