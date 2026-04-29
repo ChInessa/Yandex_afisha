@@ -17,6 +17,14 @@
 
 ---
 
+## Быстрый доступ
+
+- 📊 Основной ноутбук: `notebooks/Yandex_afisha_Chaunina_2.ipynb`
+- 📄 Описание проекта: README.md
+- 🛠 Используемые библиотеки: requirements.txt
+
+---
+
 ## Бизнес-задача
 
 Определить:
@@ -72,6 +80,17 @@
 ## Файлы проекта
 
 - `notebooks/Yandex_afisha_Chaunina_2.ipynb` — основной аналитический ноутбук
+
+---
+
+## Структура репозитория
+
+```text
+Yandex_afisha/
+├── README.md
+├── notebooks/
+│   └── Yandex_afisha_Chaunina_2.ipynb
+├── requirements.txt
 
 ---
 
