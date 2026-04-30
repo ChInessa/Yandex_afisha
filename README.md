@@ -112,7 +112,7 @@
 
 ---
 
-## 📊 Визуализация данных и ключевые аналитические выводы  
+## 4. 📊 Визуализация данных и ключевые аналитические выводы  
 
 ### Retention по количеству заказов
 <img width="1680" height="664" alt="image" src="https://github.com/user-attachments/assets/4dcac1b8-573d-4fab-8fb0-0c20aac9ad14" />
